@@ -3,14 +3,6 @@
 
 # 🏡 AirBnB Clone Project
 
-![React](https://img.shields.io/badge/Frontend-React-blue)
-![Node.js](https://img.shields.io/badge/Backend-Node.js-green)
-![MongoDB](https://img.shields.io/badge/Database-MongoDB-brightgreen)
-![Express.js](https://img.shields.io/badge/Framework-Express.js-lightgrey)
-![Figma](https://img.shields.io/badge/Design-Figma-orange)
-![GitHub](https://img.shields.io/badge/VersionControl-GitHub-black)
-![Vercel](https://img.shields.io/badge/Deployment-Vercel-black)
-
 ---
 
 ## 📌 Project Overview
@@ -36,6 +28,14 @@ This project provides hands-on experience with full-stack development, UI/UX des
 | Version Control | Git, GitHub                        |
 | Deployment   | Vercel / Render                      |
 
+
+![React](https://img.shields.io/badge/Frontend-React-blue)
+![Node.js](https://img.shields.io/badge/Backend-Node.js-green)
+![MongoDB](https://img.shields.io/badge/Database-MongoDB-brightgreen)
+![Express.js](https://img.shields.io/badge/Framework-Express.js-lightgrey)
+![Figma](https://img.shields.io/badge/Design-Figma-orange)
+![GitHub](https://img.shields.io/badge/VersionControl-GitHub-black)
+![Vercel](https://img.shields.io/badge/Deployment-Vercel-black)
 ---
 
 ## 🎨 UI/UX Design Planning
